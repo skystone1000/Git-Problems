@@ -8,7 +8,9 @@ Git history - $ git log
 
 ### Syncing a fork
 https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
-https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
+https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork<br>
+Error syncing: https://stackoverflow.com/questions/32912359/git-error-upstream-does-not-appear-to-be-a-git-repository
+
 
 ### Remotes and working with them
 https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
