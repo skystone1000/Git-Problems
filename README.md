@@ -1,9 +1,3 @@
-## Basic Git commands
-
-Git history - $ git log
-
-
-
 # GIT Problems and solutions 
 
 ### Syncing a fork
@@ -11,13 +5,18 @@ https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/sy
 https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork<br>
 Error syncing: https://stackoverflow.com/questions/32912359/git-error-upstream-does-not-appear-to-be-a-git-repository
 
-
 ### Remotes and working with them
 https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 
-===================================<br>
+### Duplicating a repository without forking it
+https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository
+
+
 Git Commands - https://github.com/joshnh/Git-Commands
 ============
+<br>
+Git history - $ git log
+<br>
 
 ### Getting & Creating Projects
 
