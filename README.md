@@ -11,6 +11,10 @@ https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 ### Duplicating a repository without forking it
 https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository
 
+### Adding SSH 
+Info - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh <br>
+Step 1 - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent <br>
+Step 2 - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account <br>
 
 Git Commands - https://github.com/joshnh/Git-Commands
 ============
